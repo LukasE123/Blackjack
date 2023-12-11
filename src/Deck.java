@@ -1,5 +1,4 @@
 public class Deck {
- private int antal = 24;
-
+ protected int amount; //antal kort i kortleken
 
 }
